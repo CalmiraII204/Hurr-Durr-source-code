@@ -1,0 +1,51 @@
+body {
+	margin-right: 0;
+	margin-top:	0;
+}
+		
+.info-container {
+	display: inline-flex;
+	padding: 7px;
+				
+	float: right;
+	align-items: top;
+}
+
+.info-container div {
+	margin-right: 7px;
+}
+
+.hurr-container {
+	text-align: center;
+}
+
+.links {
+	display: inline-block;
+}
+
+.popup, .link {	
+	cursor: pointer;
+				
+	opacity: 0.85;
+}
+/*
+     FILE ARCHIVED ON 14:56:13 Mar 17, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:17:27 Apr 10, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 188.022
+  exclusion.robots: 0.074
+  exclusion.robots.policy: 0.067
+  cdx.remote: 0.053
+  esindex: 0.01
+  LoadShardBlock: 163.965 (3)
+  PetaboxLoader3.datanode: 161.198 (4)
+  CDXLines.iter: 14.462 (3)
+  load_resource: 126.764
+  PetaboxLoader3.resolve: 70.388
+*/
